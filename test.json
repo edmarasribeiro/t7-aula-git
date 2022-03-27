@@ -1,0 +1,17 @@
+{
+	"info": {
+		"_postman_id": "7a62ca59-7748-4431-ac8e-c732c61113ce",
+		"name": "CI",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "viaCep",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
